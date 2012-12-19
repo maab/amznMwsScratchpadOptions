@@ -3,7 +3,7 @@
 // @namespace      scratchpad
 // @description    adding feed-type-dropdown
 // @include        https://mws.amazonservices.de/scratchpad/index.html
-// @require            http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js
+// @grant          none
 // ==/UserScript==
 
 var options = {
